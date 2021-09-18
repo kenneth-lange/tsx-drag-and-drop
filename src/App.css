@@ -1,0 +1,14 @@
+.App {
+    margin: 10px;
+    font-size: calc(10px + 2vmin);
+}
+
+h1 {
+    margin-left: 10px;
+}
+
+div > div > div > div {
+    padding: 20px;
+    margin: 10px;
+    background: #61dafb;
+}
